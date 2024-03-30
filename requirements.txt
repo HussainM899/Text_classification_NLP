@@ -1,0 +1,6 @@
+Python
+scikit-learn
+nltk
+Gradio
+FastAPI
+joblib
