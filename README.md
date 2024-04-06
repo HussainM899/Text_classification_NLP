@@ -3,8 +3,6 @@
 ## **Objective**
 The primary goal of this project is to develop and deploy a machine learning model that can accurately classify textual content into one of four categories: **World, Sports, Business, and Sci/Tech**. This application aims to demonstrate how natural language processing (**NLP**) can be utilized to organize and interpret large datasets of text, making information more accessible and actionable.
 
-Web App link: https://huggingface.co/spaces/HussainM899/AG_News_Text_Classifier_FastAPI
-
 ## **Overview**
 This project encompasses the full lifecycle of a machine learning application, from data preparation and model training to deployment of a web application for user interaction. Key aspects include:
 
