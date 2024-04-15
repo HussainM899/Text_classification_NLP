@@ -6,6 +6,8 @@ The primary goal of this project is to develop and deploy a machine learning mod
 ## **Overview**
 This project encompasses the full lifecycle of a machine learning application, from data preparation and model training to deployment of a web application for user interaction. Key aspects include:
 
+### **LIVE WEB APP LINK: https://huggingface.co/spaces/HussainM899/AG_News_V2**
+
 - **Preprocessing** text data to remove noise and standardize the format.
 - Utilizing **TF-IDF vectorization** to transform the text into a numerical representation.
 - Training a **Logistic Regression** model for classification.
