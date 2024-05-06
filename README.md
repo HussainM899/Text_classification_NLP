@@ -28,8 +28,8 @@ This project encompasses the full lifecycle of a machine learning application, f
 ## Evaluation Metrics
 
 **Logistic Regression**
-  - **Training Accuracy/F1 Score:** 0.9341 / 0.9340
-  - **Validation Accuracy/F1 Score:** 0.9151 / 0.9149
+  - **Training Accuracy/F1 Score:** 93.41% / 93.40%
+  - **Validation Accuracy/F1 Score:** 91.51% / 91.49%
     
 The Logistic Regression model continues to demonstrate a balanced performance between training and validation sets, indicating good generalization without significant overfitting. It outperforms other models in terms of accuracy and F1 score across both sets.
 
