@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 
 ### **Clone the Repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/HussainM899/Text_classification_NLP.git
 ```
 
 ## **Install Dependencies**
@@ -65,12 +65,6 @@ To install the necessary dependencies, run the following command in your termina
 
 ```bash
 pip install -r requirements.txt
-```
-## **Run the Application**
-Start the FastAPI server
-To start the FastAPI server, execute the following command:
-```
-uvicorn app:app --reload
 ```
 
 ## **Launch the Gradio interface**
